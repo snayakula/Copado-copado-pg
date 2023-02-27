@@ -153,6 +153,16 @@
     <enableSharing>true</enableSharing>
     <enableStreamingApi>true</enableStreamingApi>
     <externalSharingModel>Private</externalSharingModel>
+    <fields>
+        <fullName>Demo_Fields__c</fullName>
+        <externalId>false</externalId>
+        <label>Demo_Fields</label>
+        <length>30</length>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
     <label>Copado-Demo</label>
     <nameField>
         <label>Copado-Demo Name</label>
